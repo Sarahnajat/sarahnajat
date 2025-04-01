@@ -3,9 +3,9 @@
 <hr/>
 <h3 align="center">A motivated and aspired self taught fullstack developer from Kurdistan</h3>
 
-
-
-<div>📫 How to reach me <b>sarahnajatt77@gmail.com</b>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarahnajat" alt="Profile View Counter" />
+</p>
 
 </div>
 
