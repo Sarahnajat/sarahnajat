@@ -4,10 +4,10 @@
 <h3 align="center">A motivated and aspired self taught fullstack developer from Kurdistan</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=" alt="Profile View Counter" />
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarahnajat" alt="Profile View Counter" />
+</p>
 </div>
 
 <h3 align="center" style="text-decoration: underline;">Connect with me</h3>
